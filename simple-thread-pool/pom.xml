@@ -4,7 +4,7 @@
 
   <groupId>com.raghavx</groupId>
   <artifactId>simple-thread-pool</artifactId>
-  <version>1.0</version>
+  <version>${env.BUILD_NUMBER}</version>
   <packaging>jar</packaging>
 
   <name>simple-thread-pool</name>
